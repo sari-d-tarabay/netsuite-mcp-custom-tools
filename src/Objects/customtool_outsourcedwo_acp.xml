@@ -1,0 +1,6 @@
+<tool scriptid="customtool_outsourced_wo_acp">
+  <name>Outsourced WOs</name>
+  <scriptfile>[/SuiteScripts/outsourced_wo_acp.js]</scriptfile>
+  <rpcschema>[/SuiteScripts/outsourced_wo_schema_acp.json]</rpcschema>
+  <exposeto3rdpartyagents>T</exposeto3rdpartyagents>
+</tool>
